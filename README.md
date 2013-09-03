@@ -1,27 +1,14 @@
 # Asheville
 
-Asheville is a system for owning one's online identity, content and associations.
+Asheville is a system for owning one's online identity, content and
+associations.
 
-## Questions
+## What is Asheville?
 
-This topic has been discussed before – how do we begin to take control
-of our online identity? These questions present common criticsms
-of projects like Asheville, followed by answers to how we will attempt
-to circumvent these problems.
 
-### How do you get normal people to use it?
 
-### Haven't a lot of smart people tried this?
+## Intention
 
-### Won't you just be another centralized social network?
-
-### Isn't Dropbox, Box.net, etc. just as centralized?
-
-### How secure is it?
-
-### Who owns it? Will the data be sold?
-
-### Who is going to pay for the servers to run the system?
 
 
 ## Organization
@@ -33,14 +20,23 @@ contributors working collaboratively alongside the community.
 Anyone can participate in everything from the product planning meetings
 to code reviews and feature discussions.
 
-In order to facilate this collaboration, Asheville uses GitHub both
-to share code as well as ideas and discussion. Sometimes, human interaction
-is needed – in that case public Google Hangouts are held that anyone
-can attend and participate in.
+In order to facilate this collaboration, Asheville uses GitHub both to
+share code as well as ideas and discussion. Sometimes, human interaction
+is needed – in that case public Google Hangouts are held that anyone can
+attend and participate in.
 
 ### Meetings
 
+Meetings will be held either via Skype or through a Google Hangout.
 
+Notes will be kept in GitHub issues under the [meeting](https://github.c
+om/asheville/spec/issues?labels=meeting&page=1) tag.
+
+When a meeting is planned for the future, there will be an issue created
+under the [meeting](https://github.com/asheville/spec/issues?labels=meet
+ing&page=1) tag, and prior to the meeting the link to join will be
+posted. It's worth commenting in the issue ahead of time if you have
+something in particular you want to talk about.
 
 ### Cost
 
@@ -52,8 +48,8 @@ as well as server costs.
 
 Accounts on systems like infrastructure providers will need to be kept
 private, of course. In this case, credentials and emails are shared
-among core contributors to prevent siloing access, while still
-upholding security.
+among core contributors to prevent siloing access, while still upholding
+security.
 
 ### Liability
 
