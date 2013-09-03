@@ -52,3 +52,8 @@ security.
 TODO. There are liability concerns with running servers and accepting
 minimal user data (such as Dropbox tokens, in this case). Some entity
 will need to be liable for this.
+
+### IRC
+
+You can join our IRC channel on the web [here](http://webchat.freenode.net/?channels=asheville)
+or connect to `#asheville` on Freenode.
