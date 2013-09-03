@@ -5,22 +5,18 @@ associations.
 
 ## What is Asheville?
 
-
-
-## Intention
-
-
+See [our overview](overview.md) for a lengthy description of this project's intent. A brief description of the project will be provided here soon.
 
 ## Organization
 
 Asheville operates like an open source software project. There is an
-attempt to have no central authority or managing body, but rather
-contributors working collaboratively alongside the community.
+attempt to have no central authority or managing body but rather
+contributors working collaboratively alongside the community. The open source license we intend to use is currently TBD.
 
 Anyone can participate in everything from the product planning meetings
 to code reviews and feature discussions.
 
-In order to facilate this collaboration, Asheville uses GitHub both to
+In order to facilitate this collaboration, Asheville uses GitHub both to
 share code as well as ideas and discussion. Sometimes, human interaction
 is needed – in that case public Google Hangouts are held that anyone can
 attend and participate in.
