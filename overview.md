@@ -92,4 +92,3 @@ synchronized from each source as well as to kickstart or restart
 synchronization outside of the background workers' default schedules. It
 could additionally provide a preview of the synchronized content,
 particularly in a stream of updates as they get imported initially.
-

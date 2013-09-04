@@ -1,59 +1,56 @@
 # Asheville
 
-Asheville is a system for owning one's online identity, content and
-associations.
+Asheville is a system for owning one's identity, content and
+associations online.
 
-## What is Asheville?
+### What is it?
 
-See [our overview](overview.md) for a lengthy description of this project's intent. A brief description of the project will be provided here soon.
+In a nutshell, Asheville is a service that continually monitors the information and content that individuals post to various social networks and copies it automatically into their personal cloud storage accounts, such as Dropbox. 
 
-## Organization
+This provides the immediate benefit of automatically backing up their personal data so it's more effectively in those individuals' possession, stored in familiar file formats and into perpetuity regardless of how those social networks function now or into the future.
 
-Asheville operates like an open source software project. There is an
-attempt to have no central authority or managing body but rather
-contributors working collaboratively alongside the community. The open source license we intend to use is currently TBD.
+Furthermore, by synchronizing this data over to personal cloud storage accounts, they gain an important dual nature: both locally stored and Internet-accessible at the same time. This allows Asheville to provide, in turn, an API on top of these individuals' data and make all or some of them accessible to Internet applications, as they choose. An individual could, for example, set up an application that helps them publish a personal website to display the activity they've taken across numerous social networks.
 
-Anyone can participate in everything from the product planning meetings
-to code reviews and feature discussions.
+See [our overview](overview.md) for a more lengthy description of this project's intent and design.
 
-In order to facilitate this collaboration, Asheville uses GitHub both to
-share code as well as ideas and discussion. Sometimes, human interaction
-is needed – in that case public Google Hangouts are held that anyone can
-attend and participate in.
+### Organization
 
-### Meetings
+Asheville is an open source software project intended to have no central authority or managing body but rather various contributors working collaboratively within a greater community. We are currently assessing open source license options to make the legal implications of this intent clear.
 
-Meetings will be held either via Skype or through a Google Hangout.
+Most anyone can participate in everything from product planning to code reviews and feature discussions. If you are interested in participating, we encourage you to join us in IRC and for a meeting, per further instructions below.
 
-Notes will be kept in GitHub issues under the [meeting](https://github.c
-om/asheville/spec/issues?labels=meeting&page=1) tag.
+In order to facilitate collaboration, Asheville uses GitHub to share not only code but ideas and discussions as well.
 
-When a meeting is planned for the future, there will be an issue created
-under the [meeting](https://github.com/asheville/spec/issues?labels=meet
-ing&page=1) tag, and prior to the meeting the link to join will be
-posted. It's worth commenting in the issue ahead of time if you have
-something in particular you want to talk about.
+### Productization Goals
 
-### Cost
+We are not, however, content on simply drafting specifications and providing source code. We fully intend to produce a hosted version of Asheville that provides clear value to non-technical end users in addition to technical ones.
 
-Initially, core contributors will share cost if they desire on an equal
-basis. This includes initial marketing costs (i.e domain registration)
-as well as server costs.
+We strive not only towards a long-term vision that embodies the project's general ideals but short-term releases as well. These releases will incrementally provide more and more value along the lines of the greater vision while ensuring that we get critical feedback from users and the community.
 
-### Account Security
-
-Accounts on systems like infrastructure providers will need to be kept
-private, of course. In this case, credentials and emails are shared
-among core contributors to prevent siloing access, while still upholding
-security.
-
-### Liability
-
-TODO. There are liability concerns with running servers and accepting
-minimal user data (such as Dropbox tokens, in this case). Some entity
-will need to be liable for this.
+Other individuals and organizations, regardless of their participation as contributors, are free to host their own installations of Asheville.
 
 ### IRC
 
-You can join our IRC channel on the web [here](http://webchat.freenode.net/?channels=asheville)
-or connect to `#asheville` on Freenode.
+We encourage all collaborators to join our IRC channel whenever working on the project. You can join on the web [here](http://webchat.freenode.net/?channels=asheville) or connect to `#asheville` on Freenode.
+
+### Meetings
+
+Meetings will be held either with Google Hangouts or Skype.
+
+When a meeting is planned, someone will create an issue
+under the [meeting](https://github.com/asheville/spec/issues?labels=meet
+ing&page=1) tag with information about what's intended for discussion as well as a link to join if it's hosted on Google Hangouts. It's worth commenting on the issue ahead of time if you have something in particular you want to put on the agenda.
+
+Notes will be taken during meetings and added to their respective issues so that those who did not participate can review what was discussed and decided.
+
+### Cost
+
+Initially, core contributors will choose how to distribute basic costs amongst themselves.
+
+### Account Security
+
+Accounts on systems like infrastructure providers will need to be kept private, of course. In this case, credentials and emails are shared among core contributors to prevent siloing access, while still upholding security.
+
+### Liability
+
+There are liability concerns with running servers and accepting even minimal user data (such as Dropbox tokens). We will probably need to set up a legal entity to assume responsibility for these concerns.
