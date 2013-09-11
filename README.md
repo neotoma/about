@@ -15,15 +15,15 @@ See [our overview](overview.md) for a more lengthy description of this project's
 
 ### Organization
 
-Asheville is an open source software project intended to have no central authority or managing body but rather various contributors working collaboratively within a greater community. We are currently assessing open source license options to make the legal implications of this intent clear.
+Asheville is an open source software project intended to have no central authority or managing body but rather various contributors working collaboratively within a greater community. We are currently assessing open source licensing options to make the legal implications of this intent clear.
 
-Most anyone can participate in everything from product planning to code reviews and feature discussions. If you are interested in participating, we encourage you to join us in IRC and for a meeting, per further instructions below.
+Most anyone can participate in everything from product planning to code reviews and feature discussions. If you are interested in participating, we encourage you to join us in IRC or for a meeting, per further instructions below.
 
 In order to facilitate collaboration, Asheville uses GitHub to share not only code but ideas and discussions as well.
 
 ### Productization Goals
 
-We are not, however, content on simply drafting specifications and providing source code. We fully intend to produce a hosted version of Asheville that provides clear value to non-technical end users in addition to technical ones.
+We are not, however, content on simply drafting specifications and providing source code. We fully intend to produce a hosted version of Asheville that provides clear value to non-technical and technical users alike.
 
 We strive not only towards a long-term vision that embodies the project's general ideals but short-term releases as well. These releases will incrementally provide more and more value along the lines of the greater vision while ensuring that we get critical feedback from users and the community.
 
@@ -49,7 +49,7 @@ Initially, core contributors will choose how to distribute basic costs amongst t
 
 ### Account Security
 
-Accounts on systems like infrastructure providers will need to be kept private, of course. In this case, credentials and emails are shared among core contributors to prevent siloing access, while still upholding security.
+Accounts on systems like infrastructure providers will need to be kept private, of course. In this case, credentials and emails are shared among core contributors to prevent siloing access while still upholding security.
 
 ### Liability
 
