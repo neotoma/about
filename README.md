@@ -11,7 +11,15 @@ This provides the immediate benefit of automatically backing up their personal d
 
 Furthermore, by synchronizing this data over to personal cloud storage accounts, they gain an important dual nature: both locally stored and Internet-accessible at the same time. This allows Asheville to provide, in turn, an API on top of these individuals' data and make all or some of them accessible to Internet applications, as they choose. An individual could, for example, set up an application that helps them publish a personal website to display the activity they've taken across numerous social networks.
 
-See [our overview](overview.md) for a more lengthy description of this project's intent and design.
+For more explanation of what the service intends to do, see:
+
+* __[Overview](overview.md)__: A more lengthy description of this project's intent and design
+* __[Terms](terms.md)__: Some vocabulary standardized for clarity throughout the documentation
+* __[Storage](storage.md)__: Possible storage options for synchronization
+* __[Sources](sources.md)__: Possible sources of content for synchronization
+* __[Content Types](content-types.md)__: Possible types of content supported by Asheville for synchronization
+* __[User Objectives](user-objectives/overview.md)__: An outline of user objectives intended to be supported by the service, broken down by type
+
 
 ### Organization
 
