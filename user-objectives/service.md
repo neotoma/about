@@ -13,7 +13,7 @@ This document outlines user objectives pertaining to visitor and user relationsh
 * Link to Github repo
 * Link to open source license
 * Total pieces of content synced, broken down by storage, sources, and content types
-* Tota users
+* Total users
 
 ### Authenticated Users
 

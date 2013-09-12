@@ -18,7 +18,7 @@ For more explanation of what the service intends to do, see:
 * __[Storage](storage.md)__: Possible storage options for synchronization
 * __[Sources](sources.md)__: Possible sources of content for synchronization
 * __[Content Types](content-types.md)__: Possible types of content supported by Asheville for synchronization
-* __[User Objectives](user-objectives/overview.md)__: An outline of user objectives intended to be supported by the service, broken down by type
+* __[User Objectives](user-objectives/overview.md)__: An outline of user objectives intended to be supported by the service's web app, broken down by type
 
 
 ### Organization

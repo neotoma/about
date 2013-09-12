@@ -1,10 +1,10 @@
 # User Objectives
 
-This document outlines a core set of user objectives that Asheville aims to support with its web app. Each objective is not meant to denote a particular user interface (such as a page or form) per se but rather a goal that any given user would be able to achieve by using the web app, and these goals can each be satisfied by one or more interfaces as needed.
+This document outlines a set of user objectives that Asheville aims to support with its web app. Each objective is not meant to denote a particular user interface (such as a page or form) per se but rather a goal that any given user would be able to achieve by using the web app. These goals could each be satisfied by one or more interfaces as needed.
 
 These objectives can be used on a high level to map out both technical specifications and more detailed design requirements.
 
-## Service
+## [Service](service.md)
 
 * [View Service Information](service.md#view-service-information)
 * [Sign Up](service.md#sign-up)
@@ -14,7 +14,7 @@ These objectives can be used on a high level to map out both technical specifica
 * [Receive Notifications](service.md#receive-notifications)
 * [Cancel Service](service.md#cancel-service)
 
-## Storage
+## [Storage](storage.md)
 
 * [View Available Storage](storage.md#view-available-storage)
 * [View Connected Storage](storage.md#view-connected-storage)
@@ -23,7 +23,7 @@ These objectives can be used on a high level to map out both technical specifica
 * [Remove Storage](storage.md#remove-storage)
 * [View and Edit Storage Settings](storage.md#view-and-edit-storage-settings)
 
-## Sources
+## [Sources](sources.md)
 
 * [View Available Sources](sources.md#view-available-sources)
 * [View Connected Sources](sources.md#view-connected-storage)
@@ -32,7 +32,7 @@ These objectives can be used on a high level to map out both technical specifica
 * [Remove Source](sources.md#remove-source)
 * [View and Edit Source Settings](sources.md#view-and-edit-source-settings)
 
-## Apps
+## [Apps](apps.md)
 
 * [View Available Apps](apps.md#view-available-apps)
 * [View Connected Apps](apps.md#view-connected-apps)
@@ -41,6 +41,6 @@ These objectives can be used on a high level to map out both technical specifica
 * [Remove App](apps.md#remove-app)
 * [View and Edit App Settings](apps.md#view-and-edit-app-settings)
 
-## Identity
+## [Identity](identity.md)
 
 * [View Identity](identity.md#view-identity)

@@ -38,3 +38,5 @@ This document outlines user objectives pertaining to a user's storage with Ashev
 * Options to clear synced data by source / content type combinations (opt-in)
 
 ## View and Edit Storage Settings
+
+* Options to limit how much capacity is made available to Asheville, by source or content type
