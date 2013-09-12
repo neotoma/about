@@ -12,7 +12,7 @@ which people could otherwise use it to publish and communicate, leaving
 the development of new functionality that leverages this information to
 these few corporations and their particular profit motives.
 
-Nashville is a system intended to help individuals achieve more control
+Asheville is a system intended to help individuals achieve more control
 and functionality with the information they've historically handed over
 to these corporations while *not* requiring these same individuals to
 divorce themselves from the centralized status quo, since that would
@@ -39,7 +39,7 @@ experiences.
 
 # Three Components
 
-Nashville can be broken down into three main components: **Sync**,
+Asheville can be broken down into three main components: **Sync**,
 **Platform** and **Apps**. These should be designed to operate and be
 hosted independently of one another, but they can also be consolidated
 into a single service that plays all three roles.
