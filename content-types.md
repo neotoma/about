@@ -5,6 +5,7 @@ The following are types of content that Asheville could support for pulling from
 * Photos
 * Checkins / Locations Visited
 * Status Updates
+* Comments
 * Blog Posts
 * Audio Tracks
 * Videos
