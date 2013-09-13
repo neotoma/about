@@ -79,8 +79,6 @@ queing.
 
 Design:
 
-Initially:
-
 - Create a sync based on a user ID for all connected networks
 - Create a sync based on a user ID for specific networks
 - Show status of a sync for a user ID, for each network
@@ -143,6 +141,8 @@ Purpose:
 
 The platform is an API and caching layer to interact with Storage. In
 order to store or retrieve data from storage, you must go through the platform.
+
+Design:
 
 - Store data in a users storage system (authenticated)
 - Retrieve data from a users storage system (authenticated)
