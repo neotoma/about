@@ -10,6 +10,9 @@ Please add any additional ones that come to mind that users may want supported.
 * Foursquare
 * Tumblr
 * Wordpress
+* [Sina Weibo](http://en.wikipedia.org/wiki/Sina_Weibo)
+* [Qzone](http://en.wikipedia.org/wiki/Qzone)
+* [RenRen](http://en.wikipedia.org/wiki/Renren)
 * Yelp
 * LinkedIn
 * Vine
