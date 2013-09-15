@@ -8,4 +8,5 @@ Please add any additional ones that come to mind that users may want supported.
 * Google Drive
 * Box
 * Amazon S3
-* local disk
+* Local disk
+* Amazon Creative Cloud
