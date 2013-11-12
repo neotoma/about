@@ -9,7 +9,8 @@ The following are types of content that Asheville could support for pulling from
 * Blog Posts
 * Audio Tracks
 * Videos
-* Events / Plans
+* Events / Plans / Calendar Items
+* Reminders / Tasks
 * Links
 * Exercise Routes
 * Traveled GPS Paths
