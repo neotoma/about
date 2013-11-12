@@ -2,7 +2,7 @@
 
 ### In a Nutshell
 
-Asheville is an open-source system under development that's intended to help individuals gain more ownership and power over the content they post online.
+Asheville is an open-source system intended to help individuals gain more ownership and power over the content they post online.
 
 ### How so?
 
@@ -36,6 +36,13 @@ For more details about Asheville, see:
 * __[Sources](sources.md)__: Possible sources of content for synchronization
 * __[Content Types](content-types.md)__: Possible types of content supported for synchronization
 * __[User Objectives](user-objectives/overview.md)__: An outline of user objectives intended to be supported by the service's web application, broken down by type
+
+### Status
+
+Asheville is still under initial development and therefore not available to end users yet. 
+
+If you're a developer, however, you can view and fork the current code base, which has been made fully available during development. We encourage you to contribute per below.
+
 
 ### Mailing List
 
