@@ -20,7 +20,7 @@ Here are some hypothetical, real-world use cases:
 
 - Joe posts a lot of photos online using Flickr, Instagram and Facebook. He wants to make sure he doesn't lose the memories represented by these photos and their corresponding likes comments, etc. should those services change in the future (maybe Flickr will become neglected by Yahoo again, or Facebook will become unpopular and eventually go the route of MySpace). He uses Asheville to automatically store copies of his photos from across these services in organized album folders on Google Drive. And he's set up a third-party application with Asheville that will ask him if he wants to share new photos back out to these services any time he drags them into his Google Drive account, making it more convenient to post photos online in bulk as well.
 
-- Anne continually updates Twitter and Vine with the details of her life, posting tweets, photos and videos. She's close to her family, who would love to get all these updates from her, but who they aren't very active on social media. She uses Asheville to sync her content to iCloud and set up an application that automatically emails a daily update to her mom and a weekly one to the rest of her family, featuring that very content. She sets up another app that takes the content she's posted within an entire year and makes a scrapbook out of it that she can give to her grandparents for the holidays.
+- Anne continually updates Twitter and Vine with the details of her life, posting tweets, photos and videos. She's close to her family, who would love to get all these updates from her, but they aren't very active on social media. She uses Asheville to sync her content to iCloud and set up an application that automatically emails a daily update to her mom and a weekly one to the rest of her family, featuring that very content. She sets up another app that takes the content she's posted within an entire year and makes a scrapbook out of it that she can give to her grandparents for the holidays.
 
 - Dan is a prolific writer online, using various platforms such as WordPress, Google+ and Tumblr to distribute his work. However, he's always looking for new gigs and wants to provide a good representation of his best writing whenever asked. So he sets up Asheville to copy all of his pieces to Adobe Creative Cloud, where he can easily copy and paste snippets into emails or Word documents when asked by potential employers. And he sets up an application that automatically posts a list of his top work, ranked by number of comments and likes, to his LinkedIn profile.
 
@@ -41,7 +41,9 @@ For more details about Asheville, see:
 
 Asheville is still under initial development and therefore not available to end users yet. 
 
-If you're a developer, however, you can view and fork the current code base, which has been made fully available during development. We encourage you to contribute per below.
+However, latest versions of the frontend interface code are pushed to Parse and can be previewed at [asheville.parseapp.com](http://asheville.parseapp.com). Built-in simulations make it possible to experience what it might be like to set up a real account with Asheville.
+
+If you're a developer, you can view and fork the current code base, which has been made fully available during development. See the other repos in the Asheville organization for code that powers its various services. We encourage you to contribute per below.
 
 
 ### Mailing List
