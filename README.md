@@ -41,7 +41,7 @@ For more details about Asheville, see:
 
 Asheville is still under initial development and therefore not available to end users yet. 
 
-However, latest versions of the frontend interface code are pushed to Parse and can be previewed at [asheville.parseapp.com](http://asheville.parseapp.com). Built-in simulations make it possible to experience what it might be like to set up a real account with Asheville.
+However, latest versions of the [frontend interface code](https://github.com/asheville/dashboard) are pushed to GitHub Pages and can be previewed at [asheville.github.io/dashboard](http://asheville.github.io/dashboard). Built-in simulations make it possible to experience what it might be like to set up a real account with Asheville.
 
 If you're a developer, you can view and fork the current code base, which has been made fully available during development. See the other repos in the Asheville organization for code that powers its various services. We encourage you to contribute per below.
 
