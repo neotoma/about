@@ -70,7 +70,7 @@ Other individuals and organizations, regardless of their participation as contri
 
 ### IRC
 
-We encourage all collaborators to join our IRC channel when working on the project. You can join on the web [here](http://webchat.freenode.net/?channels=asheville) or connect to `#asheville` on Freenode ([irc://irc.freenode.net/asheville](irc://irc.freenode.net/asheville)).
+We encourage all collaborators to join our IRC channel when working on the project. You can [join on the web](http://webchat.freenode.net/?channels=asheville) or connect to `#asheville` on Freenode (irc://irc.freenode.net/asheville) with your favorite client.
 
 ### Meetings
 
