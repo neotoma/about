@@ -2,7 +2,7 @@
 
 ### Short Description
 
-Asheville is an open-source system intended to help individuals better posess and reuse the content they post online.
+Asheville is an open-source system intended to help individuals posess and reuse the content they post online.
 
 ### Long Description
 
