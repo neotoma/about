@@ -68,6 +68,14 @@ We strive not only towards a long-term vision that embodies the project's genera
 
 Other individuals and organizations, regardless of their participation as contributors, are free to host their own installations of Asheville.
 
+### Product Management
+
+The following tools are used in addition to GitHub to manage product design and development:
+
+- __Trello__ for high-level sprint specification, organization and status tracking: [Product Sprints](https://trello.com/b/gN599TRG/product-sprints)
+
+- __Pivotal Tracker__ for low-level development ticket specification, prioritization and tracking: [Sync](https://www.pivotaltracker.com/n/projects/1059342) and [Dashboard](https://www.pivotaltracker.com/n/projects/951914)
+
 ### IRC
 
 We encourage all collaborators to join our IRC channel when working on the project. You can [join on the web](http://webchat.freenode.net/?channels=asheville) or connect to `#asheville` on Freenode (irc://irc.freenode.net/asheville) with your favorite client.
