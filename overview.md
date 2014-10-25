@@ -1,4 +1,4 @@
-_Below is an incomplete essay that articulates Asheville's purpose and structure_
+_Below is an incomplete essay that articulates Asheville's purpose and structure._
 
 # Introduction
 
