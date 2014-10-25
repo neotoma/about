@@ -41,7 +41,7 @@ For more details about Asheville, see:
 
 Asheville is still under initial development and therefore not ready for end users yet. 
 
-However, latest versions of the [frontend interface code](https://github.com/asheville/dashboard) are pushed to GitHub Pages and can be previewed at [asheville.github.io/dashboard](http://asheville.github.io/dashboard). Built-in simulations make it possible to experience what it may be like to set up a real account with Asheville once ready.
+However, latest versions of the [frontend interface code](https://github.com/asheville/web) are pushed to GitHub Pages and can be previewed at [asheville.github.io/web](http://asheville.github.io/web). Built-in simulations make it possible to experience what it may be like to set up a real account with Asheville once ready.
 
 If you're a developer, you can view and fork the current code base, which has been made fully available during development. See the other repos in the Asheville organization for code that powers its various services. We encourage you to contribute per below.
 
@@ -74,7 +74,7 @@ The following tools are used in addition to GitHub to manage product design and 
 
 - __Trello__ for high-level sprint specification, organization and status tracking: [Product Sprints](https://trello.com/b/gN599TRG/product-sprints)
 
-- __Pivotal Tracker__ for low-level development ticket specification, prioritization and tracking: [Sync](https://www.pivotaltracker.com/n/projects/1059342) and [Dashboard](https://www.pivotaltracker.com/n/projects/951914)
+- __Pivotal Tracker__ for low-level development ticket specification, prioritization and tracking: [Sync](https://www.pivotaltracker.com/n/projects/1059342) and [Web](https://www.pivotaltracker.com/n/projects/951914)
 
 ### IRC
 
