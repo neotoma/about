@@ -7,4 +7,4 @@ The following is a set of specific terms used throughout Asheville documentation
 * __App:__ Any given third-party application or service that leverages Asheville user data as hosted in storage and made available via the platform APIs.
 * __Identity:__ The sum of a given user's profile information as aggregated from their various sources. *Example: Name, Email Addresses, Date of Birth, Portrait(s), Work History, Residential History*
 * __Content Type:__ Any given type of content that can be pulled from sources and placed in storage. *Examples: Photos, Checkins, Status Updates, Blog Posts*
-* __Content:__ Data from a source *Example: Photos, Check-ins, tweets*    
+* __Content:__ Data from a source *Example: Photos, Check-ins, tweets*

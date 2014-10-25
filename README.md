@@ -1,14 +1,14 @@
 # Asheville
 
-### In a Nutshell
+### Short Description
 
-Asheville is an open-source system intended to help individuals gain more ownership and power over the content they post online.
+Asheville is an open-source system intended to help individuals better posess and reuse the content they post online.
 
-### How so?
+### Long Description
 
 Asheville will work for users in three main ways:
 
-1. It will continually monitor the content that users post online (to applications such as social networks, publishing platforms, etc.) and copy it over to their cloud storage accounts, creating canonical, aggregate records of their online data for personal usage. This is called **Sync**.
+1. It will continually monitor the content that users post or otherwise produce online (to applications such as social networks, publishing platforms, bank accounts, etc.) and copy it over to their cloud storage accounts, creating canonical, aggregate records of their online data for personal usage. This is called **Sync**.
 
 2. It will host a RESTful API layer on top of these cloud storage accounts that serves as a conduit for third-party applications to leverage users' records as their data models, reading and writing data as desired by users. This is called **Platform**.
 
@@ -39,9 +39,9 @@ For more details about Asheville, see:
 
 ### Status
 
-Asheville is still under initial development and therefore not available to end users yet. 
+Asheville is still under initial development and therefore not ready for end users yet. 
 
-However, latest versions of the [frontend interface code](https://github.com/asheville/dashboard) are pushed to GitHub Pages and can be previewed at [asheville.github.io/dashboard](http://asheville.github.io/dashboard). Built-in simulations make it possible to experience what it might be like to set up a real account with Asheville.
+However, latest versions of the [frontend interface code](https://github.com/asheville/dashboard) are pushed to GitHub Pages and can be previewed at [asheville.github.io/dashboard](http://asheville.github.io/dashboard). Built-in simulations make it possible to experience what it may be like to set up a real account with Asheville once ready.
 
 If you're a developer, you can view and fork the current code base, which has been made fully available during development. See the other repos in the Asheville organization for code that powers its various services. We encourage you to contribute per below.
 
@@ -54,7 +54,7 @@ Want to receive general announcements about Asheville, such as when it's ready?
 
 ### Organization
 
-Asheville is an open source software project intended to have no central authority or managing body but rather various contributors working collaboratively within a greater community. We are currently assessing open source licensing options to make the legal implications of this intent clear.
+Asheville is an open source software project with core contributors working collaboratively within a greater community. An open source license will be chosen and implemented to make the legal implications of this intent clear.
 
 Most anyone can participate in everything from product planning to code reviews and feature discussions. If you are interested in participating, we encourage you to join us in IRC or for a meeting, per further instructions below.
 
@@ -62,7 +62,7 @@ In order to facilitate collaboration, Asheville uses GitHub to share not only co
 
 ### Productization Goals
 
-We are not, however, content on simply drafting specifications and providing source code. We fully intend to produce a hosted version of Asheville that provides clear value to non-technical and technical users alike.
+We are not content on simply drafting specifications and providing source code. We fully intend to produce a hosted version of Asheville that provides clear value to non-technical and technical users alike.
 
 We strive not only towards a long-term vision that embodies the project's general ideals but short-term releases as well. These releases will incrementally provide more and more value along the lines of the greater vision while ensuring that we get critical feedback from users and the community.
 
@@ -71,25 +71,3 @@ Other individuals and organizations, regardless of their participation as contri
 ### IRC
 
 We encourage all collaborators to join our IRC channel when working on the project. You can [join on the web](http://webchat.freenode.net/?channels=asheville) or connect to `#asheville` on Freenode (irc://irc.freenode.net/asheville) with your favorite client.
-
-### Meetings
-
-Meetings will be held either with Google Hangouts or Skype.
-
-When a meeting is planned, someone will create an issue
-under the [meeting](https://github.com/asheville/spec/issues?labels=meet
-ing&page=1) tag with information about what's intended for discussion as well as a link to join if it's hosted on Google Hangouts. It's worth commenting on the issue ahead of time if you have something in particular you want to put on the agenda.
-
-Notes will be taken during meetings and added to their respective issues so that those who did not participate can review what was discussed and decided.
-
-### Cost
-
-Initially, core contributors will choose how to distribute basic costs amongst themselves.
-
-### Account Security
-
-Accounts on systems like infrastructure providers will need to be kept private, of course. In this case, credentials and emails are shared among core contributors to prevent siloing access while still upholding security.
-
-### Liability
-
-There are liability concerns with running servers and accepting even minimal user data (such as Dropbox tokens). We will probably need to set up a legal entity to assume responsibility for these concerns.
