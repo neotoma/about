@@ -39,11 +39,9 @@ For more details about Asheville, see:
 
 ### Status
 
-Asheville is still under initial development and therefore not ready for end users yet. 
+Asheville is still under initial development and therefore not ready for end users yet.
 
-However, latest versions of the [frontend interface code](https://github.com/asheville/web) are pushed to GitHub Pages and can be previewed at [asheville.github.io/web](http://asheville.github.io/web). Built-in simulations make it possible to experience what it may be like to set up a real account with Asheville once ready.
-
-If you're a developer, you can view and fork the current code base, which has been made fully available during development. See the other repos in the Asheville organization for code that powers its various services. We encourage you to contribute per below.
+However, you can view and fork the current code base, which has been made fully available during development. See the other repos in the Asheville organization for code that powers its various services. We encourage you to contribute per below.
 
 
 ### Mailing List
