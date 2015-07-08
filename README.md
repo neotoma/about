@@ -43,7 +43,6 @@ Asheville is still under initial development and therefore not ready for end use
 
 However, you can view and fork the current code base, which has been made fully available during development. See the other repos in the Asheville organization for code that powers its various services. We encourage you to contribute per below.
 
-
 ### Mailing List
 
 Want to receive general announcements about Asheville, such as when it's ready?
@@ -65,15 +64,3 @@ We are not content on simply drafting specifications and providing source code. 
 We strive not only towards a long-term vision that embodies the project's general ideals but short-term releases as well. These releases will incrementally provide more and more value along the lines of the greater vision while ensuring that we get critical feedback from users and the community.
 
 Other individuals and organizations, regardless of their participation as contributors, are free to host their own installations of Asheville.
-
-### Product Management
-
-The following tools are used in addition to GitHub to manage product design and development:
-
-- __Trello__ for high-level sprint specification, organization and status tracking: [Product Sprints](https://trello.com/b/gN599TRG/product-sprints)
-
-- __Pivotal Tracker__ for low-level development ticket specification, prioritization and tracking: [Sync](https://www.pivotaltracker.com/n/projects/1059342) and [Web](https://www.pivotaltracker.com/n/projects/951914)
-
-### IRC
-
-We encourage all collaborators to join our IRC channel when working on the project. You can [join on the web](http://webchat.freenode.net/?channels=asheville) or connect to `#asheville` on Freenode (irc://irc.freenode.net/asheville) with your favorite client.
