@@ -37,29 +37,17 @@ For more details about Neotoma, see:
 * __[Content Types](content-types.md)__: Possible types of content supported for synchronization
 * __[User Objectives](user-objectives/overview.md)__: An outline of user objectives intended to be supported by the service's web application, broken down by type
 
-### Status
-
-Neotoma is still under initial development and therefore not ready for end users yet.
-
-However, you can view and fork the current code base, which has been made fully available during development. See the other repos in the Neotoma organization for code that powers its various services. We encourage you to contribute per below.
-
-### Mailing List
-
-Want to receive general announcements about Neotoma, such as when it's ready?
-
-[Leave us your name and email address](https://docs.google.com/forms/d/1i2iHhLVcfhYIEHPS5G7iD0gC4z-K-2e535GLGrj_qNE/viewform) and we'll let you know!
-
 ### Organization
 
 Neotoma is an open source software project with core contributors working collaboratively within a greater community. An open source license will be chosen and implemented to make the legal implications of this intent clear.
 
-Most anyone can participate in everything from product planning to code reviews and feature discussions. If you are interested in participating, we encourage you to join us in IRC or for a meeting, per further instructions below.
+Most anyone can participate in everything from product planning to code reviews and feature discussions. If you are interested in participating, we encourage you to [join us in Slack](https://neotoma.slack.com). You can [email Mark Hendrickson](mailto:markmhendrickson@gmail.com) to request access.
 
 In order to facilitate collaboration, Neotoma uses GitHub to share not only code but ideas and discussions as well.
 
 ### Productization Goals
 
-We are not content on simply drafting specifications and providing source code. We fully intend to produce a hosted version of Neotoma that provides clear value to non-technical and technical users alike.
+We are not content on simply drafting specifications and providing source code. [Our hosted version of Neotoma](https://neotoma.io) provides clear value to non-technical and technical users alike.
 
 We strive not only towards a long-term vision that embodies the project's general ideals but short-term releases as well. These releases will incrementally provide more and more value along the lines of the greater vision while ensuring that we get critical feedback from users and the community.
 
