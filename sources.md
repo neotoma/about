@@ -1,5 +1,5 @@
 # Sources
-The following are sources of social data that Asheville could support for synchronization with storage solutions.
+The following are sources of social data that could be supported for synchronization with storage solutions.
 
 Please add any additional ones that come to mind that users may want supported.
 
@@ -41,4 +41,4 @@ Please add any additional ones that come to mind that users may want supported.
 * Pocket
 
 ## Considerations
-* All of these services host content that's been created or shared by a user him or herself, and these are the most important to synchronize and store for the user. However, many also host content shared by others that relates to an Asheville user in some way, such as through tags, comments or likes. We'll likely want to provide options for users to choose which kinds of related content they want to store (e.g. all tweets they've favorited on Twitter, all the photos in which they've been tagged on Facebook, or all tips they've liked on Foursquare).
+* All of these services host content that's been created or shared by a user him or herself, and these are the most important to synchronize and store for the user. However, many also host content shared by others that relates to a user in some way, such as through tags, comments or likes. We'll likely want to provide options for users to choose which kinds of related content they want to store (e.g. all tweets they've favorited on Twitter, all the photos in which they've been tagged on Facebook, or all tips they've liked on Foursquare).
